@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=testtoken=https://test.link.com&html_redirect=1 ";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbV9PUkpTR09jNGVCU1FaZUpRRWpQOUFOeHVUd3xBQ3Jtc0trdExaTmRDejN6OE5BU1lFUFpDMTJVQ1B1ZlZOVHJnVm9YS1NMT3FVOHVsTk41SEZLLVZXNDVrazVKWDA0RFRvYndpQnNtTHo0V3JGR053aEp6Qjl0eGlPVWlfSXh1VW5aaXZzekpWRl9DR05Fa0RWSQ&q=https%3A%2F%2Fsecuredsmcd.com%2Fsmartlink%2F%3Fa%3D184884%26sm%3D29707%26co%3D265005%26mt%3D28%26s3%3Dhot_pussy&html_redirect=1 ";
+
+
